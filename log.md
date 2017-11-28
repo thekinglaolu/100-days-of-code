@@ -13,3 +13,12 @@
 
 **Link(s) to work**
 No links today :p
+
+### Day 2: Tuesday, November 28th, 2017
+
+**Today's Progress**: I went through Lesson 6: CSS Problem Set on the #ALCwithGoogle Udacity course.
+
+**Thoughts** Another refresher on linking to external stylesheets, working with borders, box shadows and fonts.
+
+**Link(s) to work**
+No links today :p
