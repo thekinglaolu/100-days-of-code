@@ -22,3 +22,12 @@ No links today :p
 
 **Link(s) to work**
 No links today :p
+
+### Day 3: Wednesday, November 29th, 2017
+
+**Today's Progress**: Today I went through Lesson 7: How to code faster on the #ALCwithGoogle Udacity course andd completed my animal card project.
+
+**Thoughts** Had fun learning how to make better use of my sublime text editor as well as experiment with all I've learnt so far building the animal card project.
+
+**Link(s) to work**
+No links today :p
