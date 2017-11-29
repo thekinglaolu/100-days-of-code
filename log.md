@@ -30,4 +30,4 @@ No links today :p
 **Thoughts** Had fun learning how to make better use of my sublime text editor as well as experiment with all I've learnt so far building the animal card project.
 
 **Link(s) to work**
-No links today :p
+[Animal Card](https://codepen.io/thekinglaolu/pen/aVQJbo)
