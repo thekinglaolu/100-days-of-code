@@ -53,9 +53,9 @@ No link today... Sowiee
 
 ### Day 6: Sunday, December 3rd, 2017
 
-**Today's Progress**: Went through the Javascript basics lessons on went on to get working with data types, strings and numbers for today.
+**Today's Progress**: Studied working with conditionals in javascript. Working with if...else statements and logical operators.
 
-**Thoughts**: JS AT LAST!!! :D Though network tonight was quite wacky I strived to get my one hour done and even more.
+**Thoughts**: The smallest of details can cause a bug in your code. Rest is as well necessary to avoid missing such salient details.
 
 **Link(s) to work**: 
 No link today... Sowiee
