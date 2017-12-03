@@ -40,3 +40,22 @@ No links today :p
 
 **Link(s) to work**: 
 No link today... Sowiee
+
+### Day 5: Saturday, December 2nd, 2017
+
+**Today's Progress**: Got to work with more of JavaScript datatypes and arithemetic operators.
+
+**Thoughts**: My initial thoughts of JavaScript were actually wrong, I wish I had started earlier but oh well it's all good :D.
+
+**Link(s) to work**: 
+No link today... Sowiee
+
+
+### Day 6: Sunday, December 3rd, 2017
+
+**Today's Progress**: Went through the Javascript basics lessons on went on to get working with data types, strings and numbers for today.
+
+**Thoughts**: JS AT LAST!!! :D Though network tonight was quite wacky I strived to get my one hour done and even more.
+
+**Link(s) to work**: 
+No link today... Sowiee
