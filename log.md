@@ -14,6 +14,7 @@
 **Link(s) to work**: 
 No links today :p
 
+
 ### Day 2: Tuesday, November 28th, 2017
 
 **Today's Progress**: I went through Lesson 6: CSS Problem Set on the #ALCwithGoogle Udacity course.
@@ -22,6 +23,7 @@ No links today :p
 
 **Link(s) to work**: 
 No links today :p
+
 
 ### Day 3: Wednesday, November 29th, 2017
 
@@ -32,6 +34,7 @@ No links today :p
 **Link(s) to work**: 
 [Animal Card](https://codepen.io/thekinglaolu/pen/aVQJbo)
 
+
 ### Day 4: Thursday, November 30th, 2017
 
 **Today's Progress**: Went through the Javascript basics lessons on went on to get working with data types, strings and numbers for today.
@@ -40,6 +43,7 @@ No links today :p
 
 **Link(s) to work**: 
 No link today... Sowiee
+
 
 ### Day 5: Saturday, December 2nd, 2017
 
@@ -59,3 +63,13 @@ No link today... Sowiee
 
 **Link(s) to work**: 
 No link today... Sowiee
+
+
+### Day 7: Monday, December 4th, 2017
+
+**Today's Progress**: Worked with more conditional operators today, basically learnt the ropes around using ternary operator, truthy & falsy, switch statements and the positives of falling through.
+
+**Thoughts**: Yaaay! Day 7 and still moving on. It's been fun so far, though challenging and tasking to keep up but 93days to go :D.
+
+**Link(s) to work**: 
+No link today as well
