@@ -73,3 +73,23 @@ No link today... Sowiee
 
 **Link(s) to work**: 
 No link today as well
+
+
+### Day 8: Tuesday, December 5th, 2017
+
+**Today's Progress**: Started Lesson 13: Loops on the #ALCwithGoogle course hosted by udacity. Worked with while loops and added some extra sauce of conditional statements.
+
+**Thoughts**: Alright, so my internet has been going gaga lately and time constraint today was really sick but all worked out.
+
+**Link(s) to work**: 
+No link today either
+
+
+### Day 9: Wednesday, December 6th, 2017
+
+**Today's Progress**: Completed Lesson 13: Loops on the #ALCwithGoogle course hosted by udacity. Worked with for loops, nested for loops as well as checked out how increments and decrements can be made with less hassle.
+
+**Thoughts**: It takes patience and stern observance to work with JS, or basically any programming language.
+
+**Link(s) to work**: 
+No link today as well
