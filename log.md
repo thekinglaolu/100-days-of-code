@@ -92,4 +92,24 @@ No link today either
 **Thoughts**: It takes patience and stern observance to work with JS, or basically any programming language.
 
 **Link(s) to work**: 
-No link today as well
+No link today too
+
+
+### Day 10: Tuesday, December 12th, 2017
+
+**Today's Progress**: Continued with Lesson 14: Functions of the #ALCwithGoogle course hosted on udacity. Went through hoisting, variable scope and a bit of function expressions.
+
+**Thoughts**: Well it takes much more than a decision to stay consistent, a lot of gusto is involved. This week hasn't just been easy merging up coding with other activities but yeah the jinxx has been broken... well, I think it has :D
+
+**Link(s) to work**: 
+No link today too
+
+
+### Day 11: Wednesday, December 13th, 2017
+
+**Today's Progress**: Completed Lesson 14: Functions of the #ALCwithGoogle course hosted on udacity. Finished up with function expressions and kinda got the hang of the whole thing.
+
+**Thoughts**: I think I'm more productive with writting code n stuff in the day time at this point in life.
+
+**Link(s) to work**: 
+No link today too
