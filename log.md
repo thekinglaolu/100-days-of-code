@@ -113,3 +113,13 @@ No link today too
 
 **Link(s) to work**: 
 No link today too
+
+
+### Day 12: Thursday, December 14th, 2017
+
+**Today's Progress**: Went on with types and objects today.
+
+**Thoughts**: Typing with sleepy eyes ain't one of the best things in the world.
+
+**Link(s) to work**: 
+No link today too
