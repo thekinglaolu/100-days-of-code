@@ -123,3 +123,13 @@ No link today too
 
 **Link(s) to work**: 
 No link today too
+
+
+### Day 13: Saturday, December 16th, 2017
+
+**Today's Progress**: Completed Lesson 15: Array on the #ALCwithGoogle course hosted on udacity. Learnt about some array properties as 'length' and methods such as pop(), push(), splic() && slice() for modifying array content. Worked with the forEach() and map() methods as well for looping through an array.
+
+**Thoughts**: null!
+
+**Link(s) to work**: 
+No link today too
