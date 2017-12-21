@@ -133,3 +133,33 @@ No link today too
 
 **Link(s) to work**: 
 No link today too
+
+
+### Day 14: Tuesday, December 19th, 2017
+
+**Today's Progress**: Completed Lesson 16: Objects on the #ALCwithGoogle course hosted on udacity.
+
+**Thoughts**: null!
+
+**Link(s) to work**: 
+No link today too
+
+
+### Day 15: Wednesday, December 20th, 2017
+
+**Today's Progress**: Completed Lesson 18: The Basics: the DOM, $ and Selectors on the #ALCwithGoogle course hosted on udacity. Got basic understanding of what jQuery is and how to work with the Document Object Model as well as jQuery selectors.
+
+**Thoughts**: jQuery isn't as cray cray as I earlier thought. Everything just needs time, patience and some extra gusto to strive for understanding.
+
+**Link(s) to work**: 
+No link today too
+
+
+### Day 16: Thursday, December 21st, 2017
+
+**Today's Progress**: So my internet connection was kinda wack today so couldn't get on udacity. Then I remebered freeCodeCamp. First started from where I left off at the JS track but later went on to basic algotrithms to try out all I've learnt so far and twas fun.
+
+**Thoughts**: Yeah, I know I've not been relly consistent with my days but I'll try to see how that can change, been really busy lately.
+
+**Link(s) to work**: 
+No link today too
