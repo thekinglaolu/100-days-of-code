@@ -163,3 +163,13 @@ No link today too
 
 **Link(s) to work**: 
 No link today too
+
+
+### Day 17: Tuesday, December 26th, 2017
+
+**Today's Progress**: Worked with git today. Learnt how to group edits for commit purposes, how to commit modifications straight to the repo without first of all adding them manually to the staging area using '-am'. Also learnt how to amend commits, unstage files and undo changes to files on the owrking directory.
+
+**Thoughts**: I really need to device a major method to remain consistent with this, plus well I think the christmas period had it's part to play this time.
+
+**Link(s) to work**: 
+No link today too
