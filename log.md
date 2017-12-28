@@ -167,9 +167,29 @@ No link today too
 
 ### Day 17: Tuesday, December 26th, 2017
 
-**Today's Progress**: Worked with git today. Learnt how to group edits for commit purposes, how to commit modifications straight to the repo without first of all adding them manually to the staging area using '-am'. Also learnt how to amend commits, unstage files and undo changes to files on the owrking directory.
+**Today's Progress**: Worked with git today. Learnt how to group edits for commit purposes, how to commit modifications straight to the repo without first of all adding them manually to the staging area using '-am'. Also learnt how to amend commits, unstage files and undo changes to files on the working directory.
 
 **Thoughts**: I really need to device a major method to remain consistent with this, plus well I think the christmas period had it's part to play this time.
+
+**Link(s) to work**: 
+No link today too
+
+
+### Day 18: Wednesday, December 27th, 2017
+
+**Today's Progress**: More JS went down today, with plenty stuff on DOM manipulation and all. Got to know what nodes are and how they work, how to getElementsByTag and getElementById. Got to also change and create DOM.
+
+**Thoughts**: Understanding DOM manipulation is key to being able to properly work  with elements dynamically on webpages.
+
+**Link(s) to work**: 
+No link today too
+
+
+### Day 19: Thursday, December 28th, 2017
+
+**Today's Progress**: More DOM manipulation runs. Completed the DOM Manipulation lesson which happened to be lesson 19 on the #ALCwithGoogle course hosted on udacity :). It was more of $ ish this time.
+
+**Thoughts**: DOM manipulation with $ is far simpler and time efficient than with vanilla JS.
 
 **Link(s) to work**: 
 No link today too
