@@ -193,3 +193,13 @@ No link today too
 
 **Link(s) to work**: 
 No link today too
+
+
+### Day 20: Friday, December 29th, 2017
+
+**Today's Progress**: Yaaaay! Almost done with my #ALCwithGoogle Web Beginner Track. Completed Lesson 20: Event Listeners with jQuery today.
+
+**Thoughts**: Udacity is a fun and interactive platform for learning.
+
+**Link(s) to work**: 
+No link today too
