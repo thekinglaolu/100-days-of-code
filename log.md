@@ -203,3 +203,13 @@ No link today too
 
 **Link(s) to work**: 
 No link today too
+
+
+### Day 21: Saturday, December 30th, 2017
+
+**Today's Progress**: Yaaaay! finally done with my #ALCwithGoogle Web Beginner Track. Completed the final project which was to build a single-page web app that allows users to draw pixel art on a customizable canvas.
+
+**Thoughts**: The project was not as easy as I earlier thought :D.
+
+**Link(s) to work**: 
+[Pixel Art Maker](https://github.com/thekinglaolu/100-days-of-code/tree/master/projects/Day%2021%20-%20Pixel%20Art%20Maker)
