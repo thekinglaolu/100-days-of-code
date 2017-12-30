@@ -1,0 +1,88 @@
+/* ===== Font Declaration ===== */
+@font-face {
+    font-family: 'brushstroke_plainplain';
+    src: url('_fonts/BRUSHSTP-webfont.eot');
+    src: url('_fonts/BRUSHSTP-webfont.eot?#iefix') format('embedded-opentype'),
+         url('_fonts/BRUSHSTP-webfont.woff2') format('woff2'),
+         url('_fonts/BRUSHSTP-webfont.woff') format('woff'),
+         url('_fonts/BRUSHSTP-webfont.ttf') format('truetype'),
+         url('_fonts/BRUSHSTP-webfont.svg#brushstroke_plainplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ===== Main Content  ===== */
+
+body {
+    text-align: center;
+    font-family: 'Itim', cursive;
+    font-weight: normal;
+}
+
+h1 {
+    font-family: 'brushstroke_plainplain';
+    font-size: 70px;
+    margin: 0.2em 0.2em 0;
+}
+
+p {
+    margin-top: 0;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #873a81;
+}
+
+a:hover, a:active {
+    color: #f2acec;
+}
+
+h2 {
+    margin: 1em 0 0.2em;
+    font-size: 20px;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+/* ===== Design Canvas Grid  ===== */
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+/* ===== Grid Setup form  ===== */
+
+label {
+    font-size: 15px;
+}
+
+input {
+    font-family: 'Itim', cursive;
+}
+
+input[type=number]:first-of-type {
+    margin-right: 1.2em;
+}
+
+input[type=number] {
+    width: 6em;
+    text-align: center;
+}

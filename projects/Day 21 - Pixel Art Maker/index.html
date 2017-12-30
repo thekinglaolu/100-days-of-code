@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="David 'LaOlu' Afolayan">
+    <meta name="description" content="This is a single-page web app that allows users to draw pixel art on a customizable canvas.">
+
+    <title>Pixel Art Maker | theKingLaolu</title>
+    
+    <link href="https://fonts.googleapis.com/css?family=Itim" rel="stylesheet">
+    <link rel="stylesheet" href="_styles/styles.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1>Pixel Art Maker</h1>
+
+    <p>&#169;2017 <a href="#">thekinglaolu</a></p>
+
+    <h2>Choose Grid Size</h2>
+    <form id="sizePicker">
+        <label for="height">Grid Height:</label>
+        <input type="number" id="input_height" name="height" min="1" value="1">
+        <label for="width">Grid Width:</label>
+        <input type="number" id="input_width" name="width" min="1" value="1">
+        <input type="submit">
+        <input id="reset_button" type="button" value="Reset">
+    </form>
+
+    <h2>Pick A Color</h2>
+    <input type="color" id="colorPicker" value="#873a81">
+
+    <h2>Design Canvas</h2>
+    <table id="pixel_canvas"></table>
+
+    <script src="designs.js"></script>
+</body>
+</html>
