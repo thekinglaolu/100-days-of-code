@@ -6,8 +6,8 @@
 //Makes the grid by listening to the number values in input.
 $(function(){
 	function makeGrid() {
-	  const row = $("#input_height").val();
-	  const column = $("#input_width").val();
+	  let row = $("#input_height").val();
+	  let column = $("#input_width").val();
 
 	  //takes values and uses them to make the apropriate grid
 	  for (let i = 0; i < row; i++) {
@@ -20,7 +20,7 @@ $(function(){
 	  };
 	};
 
-	myColor = $("#colorPicker").val(); //listens and pulls color value
+	let myColor = $("#colorPicker").val(); //listens and pulls color value
 
 	//listens for click and inserts color value to css
 	let click = $("#pixel_canvas").on("click", "td", function() {
