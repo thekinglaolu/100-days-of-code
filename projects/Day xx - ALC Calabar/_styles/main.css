@@ -1,0 +1,243 @@
+/* ==== Font Declaration ==== */
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('_fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('_fonts/Montserrat-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ==== Resets ==== */
+body, h1, h2, p {
+	margin: 0;
+	border: 0;
+}
+
+/* ==== Clearfix ==== */
+.clearfix:before,
+.clearfix:after {
+    content:"";
+    display:table;
+}
+.clearfix:after {
+    clear:both;
+}
+
+/* ==== Global Styles ==== */
+body {
+	font-family: 'Montserrat-Regular', arial, sans-serif;
+	font-size: 62.5%;
+}
+
+/* ==== Main Navigation ==== */
+nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 8em;
+	padding: 2em 6em 2em;
+	box-sizing: border-box;
+	transition: .5s;
+}
+
+nav.navScroll {
+	background: rgba(50, 89, 223, 1);
+	height: 6em;
+	padding: 1em 8em 1em;
+}
+
+nav img {
+	height: 6em;
+	margin: 1em;
+	transition: .5s;
+}
+
+nav.navScroll img {
+	height: 3em;
+}
+ 
+nav ul {
+	font-family: 'Montserrat-Bold', arial, sans-serif;
+	font-size: 1.5em;
+	float: right;
+	text-transform: uppercase;
+	line-height: 4em;
+}
+ 
+nav.navScroll ul {
+	line-height: 1em;
+}
+
+nav li {
+	float: left;
+	list-style: none;
+	margin-right: 2em;
+}
+
+nav a:link {
+	text-decoration: none;
+	color: white;
+	transition: .5s;
+}
+
+nav a:visited {
+	color: white;
+}
+
+nav.navScroll a:hover, nav.navScroll a:active{
+	color: #0a122e;
+}
+
+nav a:hover, nav a:active{
+	color: #3359df;
+}
+
+/* ==== Header ==== */
+header {
+	background: url(_images/backg.jpg) no-repeat center center;
+	height: 100vh;
+}
+
+article#sideLogo {
+	padding: 5em 0;
+	margin: 20em 0 0 25em;
+	height: 40em;
+	width: 10em;
+	float: left;
+}
+
+article#sideLogo img {
+	height: 30em;
+}
+
+article#typeText {
+	border-left: .3em #ffffff solid;
+	float: left;
+	margin: 20em 0 0 0;
+	height: 38em;
+	width: 81em;
+	padding: 1em 2em;
+	color: #ffffff;
+}
+
+article#typeText p {
+	margin: 0;
+	padding-top: .6em;
+	font-size: 10em;
+	font-family: 'Montserrat-Bold', arial, sans-serif;
+}
+
+/* ==== Info Section ==== */
+article.profiles {
+	margin-top: 2em;
+	padding: 4em 8em 0;
+}
+
+article.profiles h1 {
+	text-align: center;
+	font-size: 28px;
+	margin: 0;
+}
+
+hr#android	{
+	margin-top: 1em;
+	margin-bottom: 3.5em;
+	border-top: .5em double #3359df;
+	width: 20em;
+	border-bottom: none;
+	border-right: none;
+}
+
+hr#web	{
+	margin-top: 1em;
+	margin-bottom: 3.5em;
+	border-top: .5em double #3359df;
+	width: 16em;
+	border-bottom: none;
+	border-right: none;
+}
+
+hr#facilitators	{
+	margin-top: 1em;
+	margin-bottom: 3.5em;
+	border-top: .5em double #3359df;
+	width: 12em;
+	border-bottom: none;
+	border-right: none;
+}
+
+section.cardWrapper {
+	margin: 4em auto;
+	display: table;
+}
+
+section.profileCard {
+	width: 30em;
+	height: 38em;
+	padding: 2em;
+	border: .1em solid #bebebe;
+	border-radius: 4em;
+	box-sizing: border-box;
+	float: left;
+	margin-right: 4.5em;
+}
+
+section.profileCard:last-child {
+	margin-right: 0;
+}
+
+section.profileCard img {
+	height: 15em;
+	border-radius: 50%;
+	border: .1em solid #3359df;
+	margin: 0 22.5% 2em;
+}
+
+section.profileCard h2 {
+	color: #3359df;
+	font-size: 1.8em;
+	margin-bottom: .6em;
+	margin-right: .5em;
+	float: left;
+}
+
+section.profileCard p {
+	font-size: 1.5em;
+	margin-bottom: .6em;
+	line-height: 1.6;
+	font-weight: bold;
+}
+
+/* ==== Footer ==== */
+footer {
+	height: 8em;
+	background: #3e433e;
+	padding: 4em 8em 0;
+	color: #ffffff;
+	text-align: center;
+}
+
+footer p {
+	font-size: 1.5em;
+	margin: 1em auto;
+}
+
+footer a:link, footer a:visited {
+	text-decoration: none;
+	color: #3359df;
+
+}
+
+footer a:hover,  footer a:active {
+	color: #ffffff;
+	padding-bottom: .1em;
+	border-bottom: .15em dotted #ffffff;
+}
+
