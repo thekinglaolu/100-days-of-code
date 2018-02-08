@@ -134,6 +134,10 @@ article#typeText p {
 	font-family: 'Montserrat-Bold', arial, sans-serif;
 }
 
+.ti-cursor {
+     color: #3359df !important;
+}
+
 /* ==== Info Section ==== */
 article.profiles {
 	margin-top: 2em;
